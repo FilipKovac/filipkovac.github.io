@@ -7,10 +7,11 @@
         "lang": "Jazyk"
     },
     "index": {
-        "header": "Ahoj, ja som Filip!",
+        "header": "Filip Kováč",
         "header-desc1": "Front-end",
         "header-desc2": "Back-end",
-        "header-desc3": "Fullstack developer"
+        "header-desc3": "Fullstack developer",
+        "see-more": "Zistiť viac"
     },
     "social": {
         "linkedin": {
