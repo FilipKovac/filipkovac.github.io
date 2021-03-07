@@ -1,0 +1,20 @@
+{
+    "app": {
+        "title": "Filip Kováč • Software Developer",
+        "title-short": " • Software Developer"
+    },
+    "nav": {
+        "lang": "Language"
+    },
+    "index": {
+        "header": "Hi, I'm Filip!",
+        "header-desc1": "Front-end",
+        "header-desc2": "Back-end",
+        "header-desc3": "Fullstack developer"
+    },
+    "social": {
+        "linkedin": {
+            "follow": "Checkout my LinkedIn profile"
+        }
+    }
+}
