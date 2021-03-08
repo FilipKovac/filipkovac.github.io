@@ -14,8 +14,6 @@
         "see-more": "Zistiť viac"
     },
     "social": {
-        "linkedin": {
-            "follow": "Pozrite tiež môj LinkedIn profil"
-        }
+        "follow": "Pozrite tiež môj {{name}} profil"
     }
 }

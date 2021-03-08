@@ -14,8 +14,6 @@
         "see-more": "See more"
     },
     "social": {
-        "linkedin": {
-            "follow": "Checkout my LinkedIn profile"
-        }
+        "follow": "Checkout my {{name}} profile"
     }
 }

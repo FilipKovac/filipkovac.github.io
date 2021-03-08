@@ -268,6 +268,10 @@
         margin: 5px 0;
 
         .dropdown-menu {
+          a.dropdown-item {
+            color: $white;
+          }
+
           .dropdown-item {
             margin-top: 0;
             padding-left: 24px;
