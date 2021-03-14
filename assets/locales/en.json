@@ -13,6 +13,21 @@
         "header-desc3": "Fullstack developer",
         "see-more": "See more"
     },
+    "technologies": {
+        "title": "Technologies",
+        "databases": {
+            "title": "Databases",
+            "desc": "Types of databases I worked with in my career"
+        },
+        "backend": {
+            "title": "Back-end",
+            "desc": "Programming languages (and it's frameworks) i can work with"
+        },
+        "frontend": {
+            "title": "Front-end",
+            "desc": "Languages to make UI I know"
+        }
+    },
     "social": {
         "follow": "Checkout my {{name}} profile"
     }

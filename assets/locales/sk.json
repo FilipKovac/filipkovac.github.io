@@ -13,6 +13,21 @@
         "header-desc3": "Fullstack developer",
         "see-more": "Zistiť viac"
     },
+    "technologies": {
+        "title": "Technologies",
+        "databases": { 
+            "title": "Databázy",
+            "desc": "Typy databáz, s ktorými som pracoval"
+        },
+        "backend": {
+            "title": "Back-end",
+            "desc": "Programovacie jazyky (a ich framework-y), ktoré ovládam"
+        },
+        "frontend": {
+            "title": "Front-end",
+            "desc": "Jazyky, v ktorých viem spraviť UI"
+        }
+    },
     "social": {
         "follow": "Pozrite tiež môj {{name}} profil"
     }
