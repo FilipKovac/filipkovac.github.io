@@ -186,6 +186,8 @@
     }
 
     .navbar-collapse {
+      border: 1px solid $red;
+
       .input-group {
         margin: 0;
         margin-top: 5px;
@@ -447,7 +449,7 @@
     left: 0;
     top: 0;
     margin: 0.7rem;
-    background: $card-black-background;
+    background: $gray-900;
     border-radius: $border-radius-sm;
     padding: 1.4rem;
   }

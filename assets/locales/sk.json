@@ -8,13 +8,13 @@
     },
     "index": {
         "header": "Filip Kováč",
-        "header-desc1": "Front-end",
-        "header-desc2": "Back-end",
+        "header-desc1": "Front-end developer",
+        "header-desc2": "Back-end developer",
         "header-desc3": "Fullstack developer",
         "see-more": "Zistiť viac"
     },
     "technologies": {
-        "title": "Technologies",
+        "title": "Technológie",
         "databases": { 
             "title": "Databázy",
             "desc": "Typy databáz, s ktorými som pracoval"
@@ -25,10 +25,15 @@
         },
         "frontend": {
             "title": "Front-end",
-            "desc": "Jazyky, v ktorých viem spraviť UI"
+            "desc": "Jazyky, v ktorých vytváram UI"
         }
     },
     "social": {
         "follow": "Pozrite tiež môj {{name}} profil"
+    },
+    "footer": {
+        "header": "Pre ďalšie informácie ma neváhajte kontaktovať",
+        "callme": "Zavolajte mi na mobil",
+        "emailme": "Napíšte mi na mail"
     }
 }

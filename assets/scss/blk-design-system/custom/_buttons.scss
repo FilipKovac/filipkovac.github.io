@@ -266,4 +266,7 @@
   &.btn-github {
     @include social-buttons-color($github, $github-states);
   }
+  &.btn-general {
+    @include social-buttons-color($black, $red);
+  }
 }
