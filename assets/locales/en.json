@@ -28,6 +28,11 @@
             "desc": "Languages to make UI I know"
         }
     },
+    "ticTacToe": {
+        "winner": "Winner is",
+        "play": "Lets play!",
+        "playAgain": "Play again?"
+    },
     "social": {
         "follow": "Checkout my {{name}} profile"
     },

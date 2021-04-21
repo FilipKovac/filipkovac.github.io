@@ -28,6 +28,11 @@
             "desc": "Jazyky, v ktorých vytváram UI"
         }
     },
+    "ticTacToe": {
+        "winner": "Víťazom je",
+        "play": "Poď si zahrať",
+        "playAgain": "Ešte raz?"
+    },
     "social": {
         "follow": "Pozrite tiež môj {{name}} profil"
     },
