@@ -1,3 +1,4 @@
+@use "sass:math";
 // Global settings
 
 $enable-caret: true !default;
@@ -427,7 +428,7 @@ $font-paragraph: 1rem !default;
 $font-weight-base: $font-weight-normal !default;
 $shape-height-base: 1.428571 !default;
 
-$headings-margin-bottom: ($spacer / 2);
+$headings-margin-bottom: math.div($spacer, 2);
 $headings-font-family: inherit !default;
 $headings-font-weight: $font-weight-normal !default;
 $headings-line-height: 1.2 !default;
@@ -909,7 +910,7 @@ $card-bg: $white !default;
 $card-black-background: #1f2251 !default;
 $card-img-overlay-padding: 1.25rem !default;
 
-//$card-group-margin:                 ($grid-gutter-width / 2);
+//$card-group-margin:                 math.div($grid-gutter-width, 2);
 //$card-deck-margin:                  $card-group-margin !default;
 
 $card-columns-count: 3 !default;
